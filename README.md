@@ -1,9 +1,19 @@
-# Sessions Monitor - OpenClaw 会话监控面板
+# Agents Monitor for OpenClaw
 
 > **一句话介绍**: 这是一个 Chrome 浏览器扩展，安装后会在你的 OpenClaw 页面右上角显示一个监控面板，实时展示所有 AI 助手（Agent）的工作状态、使用的模型、Tokens 消耗等信息。
 
-![Version](https://img.shields.io/badge/version-1.0.4-blue)
+![Version](https://img.shields.io/badge/version-1.0.7-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## ⚡ 快速安装
+
+**懒得看文档？直接把仓库链接丢给你的 AI 助手（比如我），告诉它："帮我安装这个"，它会自己搞定！**
+
+```
+https://github.com/jicaiji1-max/openclaw-monitor-extension
+```
 
 ---
 
