@@ -7,6 +7,16 @@
 
 ---
 
+## ⚡ Quick Install
+
+**Too lazy to read the docs? Just send this repo link to your AI assistant (like me) and say: "Help me install this", it will figure it out!**
+
+```
+https://github.com/jicaiji1-max/openclaw-monitor-extension
+```
+
+---
+
 ## 💡 Why Build This Tool?
 
 **True story**: One day, I noticed my AI agents were behaving strangely:
